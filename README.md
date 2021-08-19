@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://i.ibb.co/KsPjpXn/Fraktalia.png)
+![alt text](https://i.ibb.co/fFnBDKv/Fraktalia.png)
 
 <!--
 **Fraktalia/Fraktalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
