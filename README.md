@@ -6,7 +6,7 @@ I am a young programmer ready to learn - every day I try to develop and gain new
 
 ![alt text](https://i.ibb.co/r2K7dLq/Fraktalia-skills.png)
 ## **🧐 I’m currently learning**
-![alt text] (https://i.ibb.co/cQ3qWpL/Fraktalia-Angular.png)
+![alt text](https://i.ibb.co/cQ3qWpL/Fraktalia-Angular.png)
 
 <!--
 **Fraktalia/Fraktalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
