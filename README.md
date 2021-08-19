@@ -2,7 +2,7 @@
 ![alt text](https://i.ibb.co/w44B7DT/Fraktalia.png)
 
 Hi, I'm Gabriela!
-I'm Codecool fullstack developer course graduate and social activist - I collaborated in numerous projects with GraTy group from Krosno and with Krakowska Sieć Fantastyki. I'm fast learner, always happy to acquire new skills and have a lot of experience in group work.
+
 <!--
 **Fraktalia/Fraktalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
