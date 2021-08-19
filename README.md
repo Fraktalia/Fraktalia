@@ -9,8 +9,8 @@ I am a young programmer ready to learn - every day I try to develop and gain new
 ![alt text](https://i.ibb.co/cQ3qWpL/Fraktalia-Angular.png)
 ## **🤝Find me here!**
 
-[1.1][![image](https://user-images.githubusercontent.com/67821701/130056763-d68b3763-9975-4433-b925-c8129499d116.png)](https://www.facebook.com/gabriela.koscielniak/)
-[1.2][![image](https://user-images.githubusercontent.com/67821701/130056763-d68b3763-9975-4433-b925-c8129499d116.png)](https://www.facebook.com/gabriela.koscielniak/)
+[![image](https://user-images.githubusercontent.com/67821701/130056763-d68b3763-9975-4433-b925-c8129499d116.png)](https://www.facebook.com/gabriela.koscielniak/)
+[![image](https://user-images.githubusercontent.com/67821701/130056763-d68b3763-9975-4433-b925-c8129499d116.png)](https://www.facebook.com/gabriela.koscielniak/)
 
 
 <!--
