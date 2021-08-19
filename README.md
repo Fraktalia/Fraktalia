@@ -1,8 +1,7 @@
 
 ![alt text](https://i.ibb.co/w44B7DT/Fraktalia.png)
-## **✋Hi, I'm Gabriela! **
+## ✋Hi, I'm Gabriela! 
 
-Hi, I'm Gabriela! 
 I am a young programmer ready to learn - every day I try to develop and gain new knowledge. I am looking for a job that will allow me to develop my current skills and learn new ones. I feel best in Java, but I am open to any suggestions - I learn quickly. Read about my skills below!👇
 
 ![alt text](https://i.ibb.co/r2K7dLq/Fraktalia-skills.png)
